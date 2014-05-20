@@ -12,7 +12,6 @@ class StepsController < ApplicationController
   # GET /steps/1
   # GET /steps/1.json
   def show
-    # @step = @list.steps.find(params[:id])
   end
 
   # GET /steps/new
